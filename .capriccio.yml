@@ -1,0 +1,5 @@
+source: DonutViewUITests/features
+output: DonutViewUITests/GeneratedSteps
+template: Templates/Gherkin.stencil
+includedTags:
+  - ios
